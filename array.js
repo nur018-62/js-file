@@ -31,3 +31,13 @@ var manus=[];
 manus[0]={name:"lukman Husain",age:22};// this is object use in array method
 console.log(manus[0].name);
 console.log(manus[0].age);
+
+
+//loop use in arrray
+
+//const names=["nasim","roni","lukman","asik"];
+for (let name of names){
+    console.log(name);//use for of loop
+}
+
+

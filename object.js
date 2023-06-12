@@ -25,3 +25,4 @@ miniCar.name="Toyota";
 miniCar.color="red";
 console.log(miniCar.name);
 console.log("this is color"+miniCar.color);
+
