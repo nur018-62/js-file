@@ -1,6 +1,6 @@
 console.log("this is switich");
 
-var day=1;
+var day=6;
 switch(day){
     case 1:
     console.log("sature day");
